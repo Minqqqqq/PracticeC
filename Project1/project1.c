@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main_조서작성()
 {
 	//프로젝트
 	//경찰관이 범죄자의 정보를 입수(조서 작성)
