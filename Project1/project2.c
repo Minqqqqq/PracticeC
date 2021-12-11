@@ -4,7 +4,7 @@
 
 //Up and Down
 
-int main(void)
+int main_upanddown(void)
 {
 	srand(time(NULL));
 	int num = rand() % 100 + 1; //1~100
