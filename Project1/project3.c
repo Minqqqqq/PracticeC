@@ -10,10 +10,10 @@ void success();
 
 void fail();
 
-int main(void)
+int mainquiz (void)
 {
 	
-	//문이 5개가 있고, 각 문마다 점점 어려운 수식 퀴즈가 출제(퀴즈는 랜덤)
+	//문이 5개가 있고, 각 문마다 점점 어려운 수식 퀴즈가 출제(퀴즈는 랜덤)a
 	//맞추면 통과, 틀리면 실패
 
 	srand(time(NULL));
