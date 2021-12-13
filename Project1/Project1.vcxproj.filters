@@ -27,5 +27,8 @@
     <ClCompile Include="project4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="project5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
